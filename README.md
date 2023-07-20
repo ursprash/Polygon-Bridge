@@ -64,8 +64,8 @@ This project showcases the creation and transfer of a 5-item NFT collection usin
 
 For more details on the implementation, please refer to the code and documentation in the project's repository.
 
-##Author
+## Author
 ursprash
 
-##License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
